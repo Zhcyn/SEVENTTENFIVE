@@ -1,0 +1,3 @@
+An iOS app for public transport users in Victoria, Australia. Data is from the official PTV API. Mainly uses MetroTrains Melbourne data. Includes train station map with location tracking, timetabled services at a station, station details, and stop search screens.
+The current application is still under development, and the current stage mainly tests the integrity of the interface and the correctness of logical operations.
+If you encounter problems during development, please contact me.
